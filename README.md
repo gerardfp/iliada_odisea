@@ -4,13 +4,16 @@
   li::before {counter-increment: page-number; content: "# " counter(page-number); display: block; font-size: 1em; font-weight: 800; color: #3498db; border-bottom: 1px solid #3498db; ; margin-bottom: 15px; }
 </style>
 
-# Ilíada
+
 1.
 ![Banquete en el Olimpo](/images/page_1.png)
 
-En el Olimpo, en lo alto de una montaña que se eleva por encima de las nubes, los dioses viven en palacios luminosos donde nada envejece ni se desgasta. El aire es claro, la luz es constante, y todo parece mantenerse en equilibrio. Allí no existe el cansancio como en el mundo de los mortales, y las celebraciones pueden durar sin medida.
+En lo alto del Olimpo, por encima de las nubes, los dioses viven en palacios donde nada envejece ni se desgasta. La luz es constante, el aire es puro y el tiempo no pesa como en el mundo de los mortales. Allí, las celebraciones pueden prolongarse sin medida.
+Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis es una nereida, una divinidad del mar, y su belleza no ha pasado desapercibida. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo. Pero ambos renunciaron a ella por la misma razón.
+Prometeo, el titán que conoce secretos antiguos, reveló una profecía: el hijo de Tetis sería más poderoso que su padre.
+Zeus no puede ignorar ese aviso. Él mismo alcanzó el poder tras derrotar a su padre, y no permitirá que la historia se repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Para evitarlo, deciden que Tetis se case con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.
+Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y observan el mundo de los humanos desde la distancia. Zeus, rey de los dioses y señor del cielo, preside la reunión. Hera, reina de los dioses y diosa de la familia, se mantiene a su lado. Atenea, diosa de la guerra y la sabiduría, escucha con atención. Afrodita, diosa de la belleza y el amor, se mueve entre los presentes con naturalidad.
 
-Ese día se celebra un gran banquete. Las mesas están llenas de comida y néctar, y el ambiente es distendido. Los dioses conversan, ríen y observan el mundo de los humanos desde la distancia. Zeus, el rey de los dioses, preside la reunión, atento a que todo transcurra sin conflictos. Hera, la reina y diosa de la familia, se mantiene a su lado, con la seguridad de quien ocupa una posición indiscutible. Atenea participa en las conversaciones; es la diosa de la guerra y la sabiduría y está más interesada en lo que se dice que en la propia celebración. Afrodita se mueve entre los presentes con naturalidad, consciente de las miradas que atrae, pues es la diosa de la belleza y el amor.
 
 1.
 ![Eris y la Manzana de la Discordia](/images/page_2.png)
@@ -45,7 +48,7 @@ Esta decisión, no solo cambiará el destino de Paris sino el de toda Grecia.
 
 Paris viaja a Esparta, donde Helena vive junto a su esposo, Menelao. Es recibido como invitado. Come en su mesa, duerme bajo su techo. Pero los ojos de Paris solo se fijan en Helena. Entre los dos nace un amor secreto.
 
-Una noche, mientras todo el palacio dormía, tomaron su decisión. Atravesaron los pasillos del palacio en silencio, como sombras. Llegaron a la orilla, saltaron al barco alejándose de la costa a toda velocidad. Esparta desapareció en la oscuridad y ellos no miraron atrás. 
+Una noche, mientras todo el palacio dormía, tomaron su decisión. Atravesaron los pasillos del palacio en silencio, como sombras. Llegaron a la orilla, saltaron al barco alejándose de la costa a toda velocidad. Esparta desapareció en la oscuridad y ellos no miraron atrás. Ni la furia de Hera, desatada en forma de tempestad, logró detenerlos.
 
 Cuando Menelao descubre la huida de Paris y Helena, reacciona con indignación. No solo se siente traicionado como esposo, sino que considera que se ha roto un acuerdo importante entre reinos. Por eso reúne a los demás reyes griegos y les pide apoyo para recuperar a Helena. Uno a uno, los reyes griegos responden a su llamada.
 
@@ -58,18 +61,27 @@ Agamenón, rey de Micenas y hermano de Menelao, toma el mando. Llega con el mayo
 
 Desde Ítaca llega Odiseo. No es el más fuerte, pero su astucia lo convierte en el más peligroso. Piensa antes de actuar y rara vez falla. Tampoco trae el mayor número de hombres, pero sí uno de los ejércitos más disciplinados. Sus guerreros son resistentes, acostumbrados al mar, y están armados con espada corta y arco. Actúan con rapidez y atacan donde el enemigo es más vulnerable.
 
-Aquiles, rey de los mirmidones, llega con sus hombres en naves rápidas. Es el mejor guerrero de todos. Rápido, casi imposible de alcanzar, ataca con una lanza larga y una espada curva, moviéndose con una velocidad que descoloca a sus enemigos. Sus hombres son pocos, pero son eficaces. Se mueven con rapidez, atacan con precisión. Llevan armaduras más ligeras, escudos redondos y lanzas que manejan con una velocidad difícil de seguir.
-
 También acude Áyax. Es enorme, sólido, difícil de mover incluso cuando recibe golpes directos. Porta un gran escudo que cubre casi todo su cuerpo y una lanza pesada que lanza con fuerza devastadora. Donde él se coloca, la línea no se rompe. Sus hombres avanzan como un muro, resistiendo más de lo que atacan.
 
 Néstor, el más veterano, aporta experiencia. Sus hombres no son los más fuertes, pero saben mantenerse en pie cuando otros retroceden.
 
 1.
+![Aquiles](/images/page_5_aquiles.png)
+
+El más esperado, Aquiles, también acude a la llamada. Es el mejor guerrero de todos.
+
+Hijo de Tetis, su destino estuvo marcado desde el principio. Sus hermanos murieron en la infancia, y su madre volcó todos sus esfuerzos en la supervivencia de su hijo. Lo sumergió en el río Estigia, haciendo su cuerpo invulnerable a las armas. También le entregó las alas de Arke, que le otorgan una velocidad que parece la de alguien que no pertenece del todo al mundo de los hombres, y le dio los caballos inmortales Janto y Balio, con los que atraviesa el campo de batalla sin que ningún enemigo pueda alcanzarlo.
+
+Fue educado por el centauro Quirón, quien le enseñó a luchar, a moverse y a atacar con precisión. Con lanza y espada, Aquiles combate con una rapidez y eficacia que sentencia a sus enemigos.
+
+Llega en naves rápidas al frente de los mirmidones. Son pocos, pero combaten con disciplina y precisión. Allí donde avanzan, la línea enemiga cede.
+
+1.
 ![La Flota de las Mil Naves](/images/page_6.png)
 
-Barco tras barco, los ejércitos se reúnen con destino a Troya. Más de mil naves con decenas de miles de hombres preparados para arrasar una ciudad.
+Barco tras barco, los ejércitos se reúnen. A la llamada de Agamenón, los reyes y caudillos de todas las regiones de Grecia responden. Una flota de 1186 naves, con decenas de miles de hombres, se prepara para arrasar una ciudad.
 
-Al ritmo de los tambores, los remos golpean el agua y empujan las naves por el mar Egeo. Las velas se alzan y se tensan con el viento, y los barcos avanzan con mayor rapidez.
+Empujadas por el viento que tensa lass velas y los remos que golpean el agua al ritmo de los tambores, los barcos avanzan hacia Troya.
 
 1.
 ![Desembarco en Troya](/images/page_7.png)
@@ -126,6 +138,18 @@ Menelao avanza para rematarlo, pero en ese instante Héctor se interpone y, en e
 
 El ejército griego reacciona de inmediato y avanza. La batalla vuelve a extenderse por el campo, y la guerra continúa.
 
+1. 
+![La Disputa por Briseida](/images/page_11.png)
+Durante la guerra, los griegos saquean ciudades cercanas. Del botín obtenido, Aquiles toma como esclava a Briseida, mientras Agamenón toma a Criseida.
+
+Cuando Agamenón se ve obligado a devolver a Criseida [no se dice porque se ve obligado], exige a cambio a Briseida. Aquiles se niega, pero Agamenón se la arrebata por la fuerza.
+
+Humillado, Aquiles se retira del combate.
+
+Desde ese momento deja de luchar. Su ausencia debilita a los griegos.
+
+Aquiles pide a su madre Tetis que interceda ante Zeus. Zeus escucha su ruego y permite que los troyanos ganen terreno en la guerra.
+
 1.
 ![Patroclo con la Armadura de Aquiles](/images/page_12.png)
 
@@ -138,9 +162,11 @@ Héctor sale al su encuentro. Luchan cuerpo a cuerpo, lanza contra lanza, hasta 
 1.
 ![Muerte de Héctor](/images/page_13.png)
 
-Cuando Aquiles recibe la noticia de la muerte de Patroclo, reacciona con una mezcla de dolor y rabia. Se coloca la armadura y sale directamente a buscar a Héctor.
+Cuando Aquiles recibe la noticia de la muerte de Patroclo, reacciona con una mezcla de dolor y rabia. Tetis acude a consolarlo y pide a Hefesto que forje para él una nueva armadura. El dios crea armas dignas de un héroe, junto a un escudo cubierto de escenas del mundo de los hombres [no me gusta lo de las escenas del mundo de los hombres].
 
-Subido a su carruaje tirado por dos caballos, se planta sólo frente a las murallas de Troya, y grita una y otra vez el nombre de Héctor, exigiendo que salga. Dentro de la ciudad, Héctor se prepara para la batalla. Sabe que no puede evitar ese enfrentamiento. Se despide de su mujer y su hijo, consciente de lo que está en juego.
+Aquiles se [pone] la nueva armadura y sale directamente a buscar a Héctor.
+
+Subido a su carruaje tirado por dos caballos [dos caballos, no, los caballos Balio y Janto que recibió de Poseidón], se planta sólo frente a las murallas de Troya, y grita una y otra vez el nombre de Héctor, exigiendo que salga. Dentro de la ciudad, Héctor se prepara para la batalla. Sabe que no puede evitar ese enfrentamiento. Se despide de su mujer y su hijo, consciente de lo que está en juego.
 
 Las puertas de Troya se abren, y Héctor sale para luchar con Aquiles. Luchan con intensidad, intercambiando golpes y esquivando ataques. Cada ataque obliga a Héctor a defenderse, a perder terreno poco a poco. Aquiles ve un hueco en la defensa. Lanza su arma con toda su fuerza y atraviesa la armadura de Héctor y lo derriba frente a las murallas que ha defendido durante toda la guerra.
 
@@ -150,6 +176,12 @@ Las puertas de Troya se abren, y Héctor sale para luchar con Aquiles. Luchan co
 La muerte de Héctor no consigue apaciguar la sed de venganza de Aquiles.
 
 Aún dominado por la rabia, ata el cuerpo sin vida de Héctor a su carruaje, lo despoja de su armadura y lo arrastra frente a las murallas de Troya, humillándolo ante los ojos de su familia y de toda la ciudad.
+
+Días después, Príamo, rey de Troya y padre de Héctor, acude en secreto al campamento griego. Llega hasta la tienda de Aquiles y le suplica que le devuelva el cuerpo de su hijo.
+
+Aquiles acepta.
+
+Durante varios días, la guerra se detiene para permitir los funerales de Héctor.
 
 1.
 
@@ -161,6 +193,8 @@ Sin Héctor, la defensa de Troya pierde fuerza, pero sigue resistiendo desde sus
 ![La Flecha de Apolo](/images/page_15.png)
 
 Sin embargo, los dioses no han dejado de intervenir.
+
+Desde su nacimiento, Tetis quiso hacer invulnerable a su hijo Aquiles sumergiéndolo en el río Estigia. Solo el talón por el que lo sujetaba quedó sin protección.
 
 El dios Apolo, que protege a Troya, observa la batalla desde el cielo. Aquiles avanza ganando terreno, empujando a los troyanos a la retirada. En la distancia, Paris tensa su arco y fija su ojo en él.
 
