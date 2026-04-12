@@ -194,8 +194,6 @@ Sin Héctor, la defensa de Troya pierde fuerza, pero sigue resistiendo desde sus
 
 Sin embargo, los dioses no han dejado de intervenir.
 
-Desde su nacimiento, Tetis quiso hacer invulnerable a su hijo Aquiles sumergiéndolo en el río Estigia. Solo el talón por el que lo sujetaba quedó sin protección.
-
 El dios Apolo, que protege a Troya, observa la batalla desde el cielo. Aquiles avanza ganando terreno, empujando a los troyanos a la retirada. En la distancia, Paris tensa su arco y fija su ojo en él.
 
 Apolo guía la flecha hacia el único lugar donde Aquiles puede ser herido.
