@@ -85,15 +85,11 @@ Empujadas por el viento que tensa lass velas y los remos que golpean el agua al 
 1.
 ![Desembarco en Troya](/images/page_7.png)
 
-Tras días de viaje, cruzan el mar y desembarcan frente a Troya.
+Tras días de viaje, la flota griega alcanza las costas de Troya.
 
-Odiseo y Menelao hablaron ante la asamblea troyana y exigieron la devolución de Helena y de todas sus riquezas.
+Odiseo y Menelao fuero enviados anta la asamblea troyana y exigirles la devolución de Helena, evitando así la guerra. Los troyanos se negaron. No hubo acuerdo. No hubo paz.
 
-Los troyanos se negaron.
-
-No hubo acuerdo. No hubo paz.
-
-Los guerreros griegos avanzan en formación, con armaduras de bronce, escudos pesados, lanzas afiladas y espadas listas para el combate.
+La guerra es inevitable. Los guerreros griegos avanzan en formación, con armaduras de bronce, escudos pesados, lanzas afiladas y espadas listas para el combate.
 
 Las puertas de Troya se abren y su ejército sale al encuentro. Al frente está Héctor, firme, sin dudar. Sus hombres avanzan desde terreno elevado, protegidos por sus murallas, con lanzas en alto y escudos firmes.
 
@@ -121,44 +117,45 @@ Cuando cae la noche, ninguno de los dos bandos ha vencido. Pero ambos han entend
 1.
 ![La plaga de Apolo](/images/page_10.png)
 
-Durante nueve años, los griegos sitian la ciudad y saquean toda la región.
+Durante nueve años, los griegos mantienen el asedio sobre Troya, arrasando las ciudades cercanas y saqueando toda la región en busca de riquezas y esclavos.
 
-Durante este tiempo, Aquiles toma como esclava a Briseida y Agamenón a Criseida.
+En una de estas incursiones, Aquiles toma como esclava a Briseida, mientras que Agamenón se queda con Criseida, hija de Crises, sacerdote del dios Apolo.
 
-Crises, sacerdote de Apolo, suplica que le devuelvan a su hija Criseida, tomada como botín por Agamenón. Al ser rechazado, pide ayuda a su dios.
+Desesperado, Crises acude al campamento griego y suplica la devolución de su hija, ofreciendo riquezas a cambio, pero Agamenón lo rechaza con dureza y lo obliga a marcharse sin haber conseguido nada.
 
-Apolo responde.
+Humillado, el sacerdote alza su plegaria a Apolo.
 
-Una plaga cae sobre el campamento griego. Los hombres enferman, los animales mueren, y el ejército empieza a debilitarse.
+El dios escucha.
 
-La plaga no cesará hasta que se devuelva a Criseida.
+En respuesta, envía una plaga sobre el campamento griego: los hombres comienzan a enfermar, los animales mueren y el ejército, poco a poco, empieza a debilitarse sin poder hacer nada para detenerlo, pues la enfermedad no cesará hasta que Criseida sea devuelta a su padre.
 
 1.
 ![La disputa por Briseida](/images/page_10_briseida.png)
 
-Agamenón se ve obligado a devolver a Criseida, pero exige a cambio a Briseida.
+Agamenón se ve obligado a devolver a Criseida para apaciguar la plaga que azota al campamento griego; a cambio exige otra recompensa: Briseida, la esclava de Aquiles.
 
-Aquiles se niega, pero Agamenón se la arrebata por la fuerza.
+Aquiles se niega a aceptarlo, pero Agamenón, sin atender a razones, la toma por la fuerza y se la arrebata delante de todos.
 
-Humillado, Aquiles se retira del combate.
+Humillado y lleno de cólera, Aquiles decide retirarse del combate y abandonar la guerra, negándose a volver a luchar mientras su honor no sea restaurado.
 
-Aquiles pide a Tetis que interceda ante Zeus para favorecer a los troyanos.
+Entonces pide a su madre Tetis que interceda ante Zeus para inclinar la balanza del conflicto en favor de los troyanos.
 
-Zeus accede a la petición de Tetis y los troyanos ganan terreno en la guerra.
+Zeus accede a la petición, y a partir de ese momento los troyanos comienzan a ganar terreno en la guerra.
 
 1.
 ![Duelo entre Paris y Menelao](/images/page_11.png)
 
-En medio de la guerra, Paris observa las muertes que se acumulan en el campo de batalla. La guerra comenzó por Helena, y decide resolver el conflicto con un duelo contra Menelao: el vencedor se quedará con Helena.
+En medio del avance troyano, Paris contempla desde la distancia la magnitud de la guerra que él mismo ha provocado. Aunque Troya está logrando resistir, las muertes se acumulan cada día en el campo de batalla.
 
-Los ejércitos se reúnen frente a las murallas de Troya. Héctor y Paris presentan la propuesta, y Menelao y Agamenón la aceptan. Paris y Menelao se enfrentan. Luchan ante la mirada de todos, espada contra espada. Menelao domina el combate y obliga a Paris a retroceder. Cada golpe lo acerca más a la derrota.
+Sabiendo que todo comenzó por Helena, decide poner fin de la única forma que cree posible: un duelo contra Menelao, en el que el vencedor se quedará con Helena y la guerra podrá terminar sin más derramamiento de sangre.
 
-Cuando todo parece decidido, Afrodita interviene. Envuelve a Paris en una niebla repentina y lo aparta del campo de batalla sin que nadie pueda impedirlo.
+Los ejércitos se reúnen frente a las murallas de Troya. Héctor y Paris presentan la propuesta, y Menelao y Agamenón la aceptan como una oportunidad para resolver definitivamente el conflicto.
 
+Paris y Menelao se enfrentan ante todos, espada contra espada, pero el combate pronto se inclina a favor de Menelao, que domina la lucha y obliga a Paris a retroceder hasta el límite de sus fuerzas.
 
-El ejército griego reacciona de inmediato y avanza. La batalla vuelve a extenderse por el campo, y la guerra continúa.
+Cuando todo parece decidido, Afrodita interviene y envuelve a Paris en una niebla repentina, apartándolo del campo de batalla sin que nadie pueda impedirlo.
 
-que Atenea, disfrazada, incita a Pándaro para que rompa la tregua lanzando una flecha que hiere a Menelao y tras la arenga de Agamenón a sus tropas se reanuda la lucha, en la que Ares y Apolo por una parte y Atenea, Hera y otras divinidades, ayudan respectivamente a los troyanos y a los griegos.
+La tregua se rompe de inmediato. El ejército griego reacciona y la guerra se reanuda con violencia, extendiéndose de nuevo por todo el campo de batalla mientras los dioses intervienen en ambos bandos: Ares y Apolo apoyan a los troyanos, mientras Atenea, Hera y otras divinidades favorecen a los griegos.
 
 1.
 ![Patroclo con la Armadura de Aquiles](/images/page_12.png)
