@@ -9,11 +9,10 @@
 ![Banquete en el Olimpo](/images/page_1.png)
 
 En lo alto del Olimpo, por encima de las nubes, los dioses viven en palacios donde nada envejece ni se desgasta. La luz es constante, el aire es puro y el tiempo no pesa como en el mundo de los mortales. Allí, las celebraciones pueden prolongarse sin medida.
-Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis es una nereida, una divinidad del mar, y su belleza no ha pasado desapercibida. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo. Pero ambos renunciaron a ella por la misma razón.
-Prometeo, el titán que conoce secretos antiguos, reveló una profecía: el hijo de Tetis sería más poderoso que su padre.
-Zeus no puede ignorar ese aviso. Él mismo alcanzó el poder tras derrotar a su padre, y no permitirá que la historia se repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Para evitarlo, deciden que Tetis se case con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.
-Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y observan el mundo de los humanos desde la distancia. Zeus, rey de los dioses y señor del cielo, preside la reunión. Hera, reina de los dioses y diosa de la familia, se mantiene a su lado. Atenea, diosa de la guerra y la sabiduría, escucha con atención. Afrodita, diosa de la belleza y el amor, se mueve entre los presentes con naturalidad.
 
+Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis es una nereida, una divinidad del mar, y su belleza no ha pasado desapercibida. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo. Pero ambos renunciaron a ella por la misma razón. Prometeo, el titán que conoce secretos antiguos, reveló una profecía: el hijo de Tetis sería más poderoso que su padre.
+Zeus no puede ignorar ese aviso. Él mismo alcanzó el poder tras derrotar a su padre, y no permitirá que la historia se repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Para evitarlo, deciden que Tetis se case con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.
+Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y observan el mundo de los humanos desde la distancia.
 
 1.
 ![Eris y la Manzana de la Discordia](/images/page_2.png)
@@ -24,11 +23,11 @@ Eris, la diosa de la discordia, permanece al margen. No ha sido olvidada por cas
 
 Tres diosas reclaman la manzana para sí.
 
-Hera es la primera en reaccionar. Como reina de los dioses, está convencida de que la manzana le pertenece. Está acostumbrada a que nadie discuta su lugar.
+Hera, diosa de la familia, es la primera en reaccionar. Como reina de los dioses, está convencida de que la manzana le pertenece. Está acostumbrada a que nadie discuta su lugar.
 
-Atenea permanece en calma. Cree que la inteligencia y la estrategia son más valiosas que la belleza, y también considera que merece la manzana.
+Atenea, diosa de la guerra y la sabiduría, permanece en calma. Cree que la inteligencia y la estrategia son más valiosas que la belleza, y también considera que merece la manzana.
 
-Afrodita, por su parte, sabe que no necesita imponer su voluntad con palabras. Confía en su capacidad para influir en quien la escucha, y también cree que es la más bella de las tres.
+Por su parte, Afrodita, diosa de la belleza y el amor, sabe que no necesita imponer su voluntad con palabras. Confía en su capacidad para influir en quien la escucha, y también cree que es la más bella de las tres.
 
 1.
 ![El Juicio de Paris](/images/page_3.png)
@@ -86,11 +85,19 @@ Empujadas por el viento que tensa lass velas y los remos que golpean el agua al 
 1.
 ![Desembarco en Troya](/images/page_7.png)
 
-Tras días de viaje, cruzan el mar y desembarcan frente a Troya. Sus guerreros avanzan en formación, con armaduras de bronce, escudos pesados, lanzas afiladas y espadas listas para el combate.
+Tras días de viaje, cruzan el mar y desembarcan frente a Troya.
+
+Odiseo y Menelao hablaron ante la asamblea troyana y exigieron la devolución de Helena y de todas sus riquezas.
+
+Los troyanos se negaron.
+
+No hubo acuerdo. No hubo paz.
+
+Los guerreros griegos avanzan en formación, con armaduras de bronce, escudos pesados, lanzas afiladas y espadas listas para el combate.
 
 Las puertas de Troya se abren y su ejército sale al encuentro. Al frente está Héctor, firme, sin dudar. Sus hombres avanzan desde terreno elevado, protegidos por sus murallas, con lanzas en alto y escudos firmes.
 
-Durante unos instantes, ambos ejércitos se observan en silencio. Dos líneas de hombres armados, inmóviles, midiendo la distancia. Nadie retrocede.
+Durante unos instantes, ambos ejércitos se observan en silencio. Dos líneas de hombres armados, frente a frente, inmóviles, midiendo la distancia. Nadie retrocede.
 
 Entonces suena el primer grito.
 
@@ -103,9 +110,6 @@ Las filas chocan con violencia. Escudo contra escudo, lanza contra lanza. El son
 
 Los griegos intentan avanzar desde la playa, pero el terreno es estrecho y los troyanos presionan con fuerza. Héctor se mueve entre los suyos, atacando donde la línea griega empieza a ceder. Su presencia empuja a sus hombres hacia delante.
 
-1.
-![La Resistencia de Áyax](/images/page_9.png)
-
 Áyax se planta en el centro y contiene el avance. Su escudo resiste golpe tras golpe, y donde él se mantiene, la línea no se rompe. Una flecha le atraviesa la pierna, pero ni siquiera eso lo detiene. Sigue avanzando, apoyándose en su escudo, como si el dolor no tuviera fuerza suficiente para frenarlo. A su lado, los griegos recuperan terreno paso a paso.
 
 Odiseo no busca el choque directo. Se desplaza por los flancos, observando, esperando el momento justo para atacar donde el enemigo está menos preparado.
@@ -115,15 +119,32 @@ La batalla se alarga durante horas. El polvo se levanta, la visibilidad se pierd
 Cuando cae la noche, ninguno de los dos bandos ha vencido. Pero ambos han entendido lo mismo. La guerra no será rápida.
 
 1.
-![La Intervención Divina](/images/page_10.png)
+![La plaga de Apolo](/images/page_10.png)
 
-La guerra se alarga durante años. Los dioses intervienen de forma constante.
+Durante nueve años, los griegos sitian la ciudad y saquean toda la región.
 
-Atenea guía a los guerreros griegos, influyendo en sus decisiones para que mantengan la disciplina y avancen en el momento adecuado.
+Durante este tiempo, Aquiles toma como esclava a Briseida y Agamenón a Criseida.
 
-Hera, que odia a los troyanos, protege a los griegos desviando flechas y empujando sus lanzas.
+Crises, sacerdote de Apolo, suplica que le devuelvan a su hija Criseida, tomada como botín por Agamenón. Al ser rechazado, pide ayuda a su dios.
 
-Apolo interviene en favor de Troya, debilitando a los griegos con una plaga que se extiende entre sus tropas.
+Apolo responde.
+
+Una plaga cae sobre el campamento griego. Los hombres enferman, los animales mueren, y el ejército empieza a debilitarse.
+
+La plaga no cesará hasta que se devuelva a Criseida.
+
+1.
+![La disputa por Briseida](/images/page_10_briseida.png)
+
+Agamenón se ve obligado a devolver a Criseida, pero exige a cambio a Briseida.
+
+Aquiles se niega, pero Agamenón se la arrebata por la fuerza.
+
+Humillado, Aquiles se retira del combate.
+
+Aquiles pide a Tetis que interceda ante Zeus para favorecer a los troyanos.
+
+Zeus accede a la petición de Tetis y los troyanos ganan terreno en la guerra.
 
 1.
 ![Duelo entre Paris y Menelao](/images/page_11.png)
@@ -134,21 +155,10 @@ Los ejércitos se reúnen frente a las murallas de Troya. Héctor y Paris presen
 
 Cuando todo parece decidido, Afrodita interviene. Envuelve a Paris en una niebla repentina y lo aparta del campo de batalla sin que nadie pueda impedirlo.
 
-Menelao avanza para rematarlo, pero en ese instante Héctor se interpone y, en el choque, clava su espada en el estómago de Menelao.
 
 El ejército griego reacciona de inmediato y avanza. La batalla vuelve a extenderse por el campo, y la guerra continúa.
 
-1. 
-![La Disputa por Briseida](/images/page_11.png)
-Durante la guerra, los griegos saquean ciudades cercanas. Del botín obtenido, Aquiles toma como esclava a Briseida, mientras Agamenón toma a Criseida.
-
-Cuando Agamenón se ve obligado a devolver a Criseida [no se dice porque se ve obligado], exige a cambio a Briseida. Aquiles se niega, pero Agamenón se la arrebata por la fuerza.
-
-Humillado, Aquiles se retira del combate.
-
-Desde ese momento deja de luchar. Su ausencia debilita a los griegos.
-
-Aquiles pide a su madre Tetis que interceda ante Zeus. Zeus escucha su ruego y permite que los troyanos ganen terreno en la guerra.
+que Atenea, disfrazada, incita a Pándaro para que rompa la tregua lanzando una flecha que hiere a Menelao y tras la arenga de Agamenón a sus tropas se reanuda la lucha, en la que Ares y Apolo por una parte y Atenea, Hera y otras divinidades, ayudan respectivamente a los troyanos y a los griegos.
 
 1.
 ![Patroclo con la Armadura de Aquiles](/images/page_12.png)
