@@ -10,86 +10,88 @@
 
 En lo alto del Olimpo, por encima de las nubes, los dioses viven en palacios donde nada envejece ni se desgasta. La luz es constante, el aire es puro y el tiempo no pesa como en el mundo de los mortales. Allí, las celebraciones pueden prolongarse sin medida.
 
-Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis es una nereida, una divinidad del mar, y su belleza no ha pasado desapercibida. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo. Pero ambos renunciaron a ella por la misma razón. Prometeo, el titán que conoce secretos antiguos, reveló una profecía: el hijo de Tetis sería más poderoso que su padre.
+Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis es una nereida, una divinidad del mar, y su belleza no ha pasado desapercibida. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo, pero ambos renunciaron a ella tras conocer una profecía revelada por el titán Prometeo: el hijo de Tetis sería más poderoso que su padre.
+
 Zeus no puede ignorar ese aviso. Él mismo alcanzó el poder tras derrotar a su padre, y no permitirá que la historia se repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Para evitarlo, deciden que Tetis se case con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.
+
 Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y observan el mundo de los humanos desde la distancia.
 
 1.
 ![Eris y la Manzana de la Discordia](/images/page_2.png)
 
-Pero no todos los dioses han sido invitados.
+Pero no todos los dioses han sido invitados al banquete.
 
-Eris, la diosa de la discordia, permanece al margen. No ha sido olvidada por casualidad: su presencia suele alterar cualquier reunión. Allí donde aparece, surgen tensiones y enfrentamientos. Sabe perfectamente por qué no ha sido invitada, y resentida, está dispuesta a sembrar la discordia para arruinar el banquete. Sin decir una palabra, se acerca y deja sobre la mesa una manzana de oro y se retira. En la manzana hay una inscripción: “Para la más bella”.
+Eris, la diosa de la discordia, permanece al margen. No ha sido olvidada por descuido: su presencia siempre trae conflicto. Allí donde aparece, surgen disputas, tensiones y enfrentamientos. Sabe perfectamente por qué ha sido excluida, y no está dispuesta a aceptarlo.
 
-Tres diosas reclaman la manzana para sí.
+Movida por el resentimiento, decide intervenir. Sin anunciarse ni reclamar atención, se acerca al banquete y deja sobre la mesa una manzana de oro antes de retirarse en silencio. Nadie la ve llegar, pero todos notan su presencia cuando descubren la inscripción grabada en la fruta: “Para la más bella”.
 
-Hera, diosa de la familia, es la primera en reaccionar. Como reina de los dioses, está convencida de que la manzana le pertenece. Está acostumbrada a que nadie discuta su lugar.
+Tres diosas reclaman la manzana de inmediato. Hera, reina del Olimpo, considera que su posición la hace merecedora del premio. Atenea, diosa de la sabiduría y la estrategia, cree que su inteligencia la sitúa por encima de las demás. Afrodita, diosa del amor y la belleza, no duda: sabe que su poder es irresistible.
 
-Atenea, diosa de la guerra y la sabiduría, permanece en calma. Cree que la inteligencia y la estrategia son más valiosas que la belleza, y también considera que merece la manzana.
-
-Por su parte, Afrodita, diosa de la belleza y el amor, sabe que no necesita imponer su voluntad con palabras. Confía en su capacidad para influir en quien la escucha, y también cree que es la más bella de las tres.
+La disputa crece, y pronto queda claro que ninguna está dispuesta a ceder.
 
 1.
 ![El Juicio de Paris](/images/page_3.png)
 
-Como ninguna cede, los dioses deciden resolver la disputa llevando el juicio a un mortal, que decidirá cuál de las tres debe quedarse con la manzana.
+Para evitar que el conflicto se extienda entre los dioses, Zeus decide que la elección recaiga en un mortal.
 
 El elegido es Paris, príncipe de Troya. Las tres diosas se presentan ante él:
 
-Hera le ofrece poder sobre todos los hombres. Atenea le promete sabiduría y éxito en la guerra. Afrodita le promete el amor de la mujer más hermosa del mundo, Helena.
+Hera le ofrece el poder absoluto sobre todos los hombres. Atenea le promete sabiduría y victoria en la guerra. Afrodita le promete el amor de la mujer más hermosa del mundo, Helena.
 
-Paris duda, consciente de que cualquier elección cambiará su vida. Finalmente, se inclina por Afrodita, porque el deseo de Helena pesa más que cualquier otra promesa.
+Paris duda, consciente de que cualquier elección cambiará su destino. Finalmente se inclina por Afrodita, porque el deseo de Helena pesa más que cualquier otra promesa de poder o gloria.
 
 Esta decisión, no solo cambiará el destino de Paris sino el de toda Grecia.
 
 1.
 ![Huida de Esparta](/images/page_4.png)
 
-Paris viaja a Esparta, donde Helena vive junto a su esposo, Menelao. Es recibido como invitado. Come en su mesa, duerme bajo su techo. Pero los ojos de Paris solo se fijan en Helena. Entre los dos nace un amor secreto.
+Paris viaja a Esparta, donde Helena vive junto a su esposo, Menelao. Es recibido con hospitalidad. Come en su mesa y duerme bajo su techo. Pero sus ojos solo se fijan en Helena. Entre ambos nace un amor secreto.
 
-Una noche, mientras todo el palacio dormía, tomaron su decisión. Atravesaron los pasillos del palacio en silencio, como sombras. Llegaron a la orilla, saltaron al barco alejándose de la costa a toda velocidad. Esparta desapareció en la oscuridad y ellos no miraron atrás. Ni la furia de Hera, desatada en forma de tempestad, logró detenerlos.
+Una noche, mientras el palacio duerme, toman su decisión. Atravesan los pasillos en silencio, como sombras, hasta llegar a la orilla. Allí embarcan y se alejan de la costa a toda velocidad. Esparta desaparece en la oscuridad y no miran atrás. Ni siquiera la furia de Hera, desatada en forma de tempestad, logra detenerlos.
 
-Cuando Menelao descubre la huida de Paris y Helena, reacciona con indignación. No solo se siente traicionado como esposo, sino que considera que se ha roto un acuerdo importante entre reinos. Por eso reúne a los demás reyes griegos y les pide apoyo para recuperar a Helena. Uno a uno, los reyes griegos responden a su llamada.
+Cuando Menelao descubre la huida, reacciona con indignación. No solo como esposo, sino como rey traicionado. Reúne a los demás reyes griegos y les pide apoyo para recuperar a Helena. Uno a uno, los reyes responden a su llamada.
 
 Así comienza la guerra.
 
 1.
 ![Reunión de los Héroes Griegos](/images/page_5.png)
 
-Agamenón, rey de Micenas y hermano de Menelao, toma el mando. Llega con el mayor ejército: decenas de naves, filas de hombres protegidos con armaduras de bronce, escudos grandes como puertas y lanzas largas preparadas para romper formaciones.
+Agamenón, rey de Micenas y hermano de Menelao, toma el mando. Llega con el mayor ejército: decenas de naves, filas de hombres con armaduras de bronce, escudos grandes como puertas y lanzas listas para romper formaciones.
 
-Desde Ítaca llega Odiseo. No es el más fuerte, pero su astucia lo convierte en el más peligroso. Piensa antes de actuar y rara vez falla. Tampoco trae el mayor número de hombres, pero sí uno de los ejércitos más disciplinados. Sus guerreros son resistentes, acostumbrados al mar, y están armados con espada corta y arco. Actúan con rapidez y atacan donde el enemigo es más vulnerable.
+Desde Ítaca llega Odiseo. No es el más fuerte, pero su astucia lo convierte en el más peligroso. Sus guerreros son disciplinados, rápidos y precisos.
 
-También acude Áyax. Es enorme, sólido, difícil de mover incluso cuando recibe golpes directos. Porta un gran escudo que cubre casi todo su cuerpo y una lanza pesada que lanza con fuerza devastadora. Donde él se coloca, la línea no se rompe. Sus hombres avanzan como un muro, resistiendo más de lo que atacan.
+También acude Áyax. Enorme e imparable, su escudo cubre casi todo su cuerpo y su presencia mantiene la línea firme incluso bajo los ataques más duros.
 
-Néstor, el más veterano, aporta experiencia. Sus hombres no son los más fuertes, pero saben mantenerse en pie cuando otros retroceden.
+Néstor, el más veterano, aporta experiencia y prudencia.
 
 1.
 ![Aquiles](/images/page_5_aquiles.png)
 
-El más esperado, Aquiles, también acude a la llamada. Es el mejor guerrero de todos.
+Aquiles también acude a la llamada. Es el mejor guerrero de todos.
 
-Hijo de Tetis, su destino estuvo marcado desde el principio. Sus hermanos murieron en la infancia, y su madre volcó todos sus esfuerzos en la supervivencia de su hijo. Lo sumergió en el río Estigia, haciendo su cuerpo invulnerable a las armas. También le entregó las alas de Arke, que le otorgan una velocidad que parece la de alguien que no pertenece del todo al mundo de los hombres, y le dio los caballos inmortales Janto y Balio, con los que atraviesa el campo de batalla sin que ningún enemigo pueda alcanzarlo.
+Hijo de Tetis, su destino estuvo marcado desde el principio. Sus hermanos murieron en la infancia, y su madre volcó todos sus esfuerzos en la supervivencia de su hijo. Lo sumergió en el río Estigia, haciendo su cuerpo invulnerable a las armas. También le entregó las alas de Arke, que le otorgan una velocidad sobrenatural, y los caballos inmortales Janto y Balio, capaces de atravesar el campo de batalla como el viento.
 
-Fue educado por el centauro Quirón, quien le enseñó a luchar, a moverse y a atacar con precisión. Con lanza y espada, Aquiles combate con una rapidez y eficacia que sentencia a sus enemigos.
+Fue educado por el centauro Quirón, quien le enseñóquien le enseñó el arte de la guerra con precisión absoluta.
 
-Llega en naves rápidas al frente de los mirmidones. Son pocos, pero combaten con disciplina y precisión. Allí donde avanzan, la línea enemiga cede.
+Llega en naves rápidas al frente de los mirmidones. Son pocos, pero letales.
 
 1.
 ![La Flota de las Mil Naves](/images/page_6.png)
 
-Barco tras barco, los ejércitos se reúnen. A la llamada de Agamenón, los reyes y caudillos de todas las regiones de Grecia responden. Una flota de 1186 naves, con decenas de miles de hombres, se prepara para arrasar una ciudad.
+Barco tras barco, los ejércitos se reúnen. A la llamada de Agamenón, los reyes y caudillos de todas las regiones de Grecia responden. Una flota de 1.186 naves, con decenas de miles de hombres, se prepara para arrasar una ciudad.
 
-Empujadas por el viento que tensa lass velas y los remos que golpean el agua al ritmo de los tambores, los barcos avanzan hacia Troya.
+Empujados por el viento que tensa las velas y los remos que golpean el agua al ritmo de los tambores, los barcos avanzan hacia Troya.
 
 1.
 ![Desembarco en Troya](/images/page_7.png)
 
 Tras días de viaje, la flota griega alcanza las costas de Troya.
 
-Odiseo y Menelao fuero enviados anta la asamblea troyana y exigirles la devolución de Helena, evitando así la guerra. Los troyanos se negaron. No hubo acuerdo. No hubo paz.
+Odiseo y Menelao son enviados ante la asamblea troyana para exigir la devolución de Helena. Los troyanos se niegan. 
 
-La guerra es inevitable. Los guerreros griegos avanzan en formación, con armaduras de bronce, escudos pesados, lanzas afiladas y espadas listas para el combate.
+La guerra es inevitable. 
+
+Los guerreros griegos avanzan en formación, con armaduras de bronce, escudos pesados, lanzas afiladas y espadas listas para el combate.
 
 Las puertas de Troya se abren y su ejército sale al encuentro. Al frente está Héctor, firme, sin dudar. Sus hombres avanzan desde terreno elevado, protegidos por sus murallas, con lanzas en alto y escudos firmes.
 
@@ -112,7 +114,7 @@ Odiseo no busca el choque directo. Se desplaza por los flancos, observando, espe
 
 La batalla se alarga durante horas. El polvo se levanta, la visibilidad se pierde, y el campo se llena de cuerpos y armas rotas.
 
-Cuando cae la noche, ninguno de los dos bandos ha vencido. Pero ambos han entendido lo mismo. La guerra no será rápida.
+Cuando cae la noche, ninguno de los dos bandos ha vencido. Pero ambos han entendido lo mismo. La guerra no será corta.
 
 1.
 ![La plaga de Apolo](/images/page_10.png)
@@ -145,15 +147,11 @@ Zeus accede a la petición, y a partir de ese momento los troyanos comienzan a g
 1.
 ![Duelo entre Paris y Menelao](/images/page_11.png)
 
-En medio del avance troyano, Paris contempla desde la distancia la magnitud de la guerra que él mismo ha provocado. Aunque Troya está logrando resistir, las muertes se acumulan cada día en el campo de batalla.
+En medio del avance troyano, Paris contempla desde la distancia la magnitud de la guerra que él mismo ha provocado. Aunque Troya está logrando resistir, las muertes se acumulan cada día en el campo de batalla. Sabiendo que todo comenzó por Helena, decide poner fin de la única forma que cree posible: un duelo contra Menelao, en el que el vencedor se quedará con Helena y la guerra podrá terminar sin más derramamiento de sangre.
 
-Sabiendo que todo comenzó por Helena, decide poner fin de la única forma que cree posible: un duelo contra Menelao, en el que el vencedor se quedará con Helena y la guerra podrá terminar sin más derramamiento de sangre.
+Frente a las murallas de Troya, Héctor y Paris presentan la propuesta, y Menelao y Agamenón la aceptan como una oportunidad para resolver definitivamente el conflicto.
 
-Los ejércitos se reúnen frente a las murallas de Troya. Héctor y Paris presentan la propuesta, y Menelao y Agamenón la aceptan como una oportunidad para resolver definitivamente el conflicto.
-
-Paris y Menelao se enfrentan ante todos, espada contra espada, pero el combate pronto se inclina a favor de Menelao, que domina la lucha y obliga a Paris a retroceder hasta el límite de sus fuerzas.
-
-Cuando todo parece decidido, Afrodita interviene y envuelve a Paris en una niebla repentina, apartándolo del campo de batalla sin que nadie pueda impedirlo.
+Allí mismo, frente a todos, Paris y Menelao se enfrentan, espada contra espada, pero el combate pronto se inclina a favor de Menelao, que domina la lucha y obliga a Paris a retroceder hasta el límite de sus fuerzas. Cuando todo parece decidido, Afrodita interviene y envuelve a Paris en una niebla repentina, apartándolo del campo de batalla sin que nadie pueda impedirlo.
 
 La tregua se rompe de inmediato. El ejército griego reacciona y la guerra se reanuda con violencia, extendiéndose de nuevo por todo el campo de batalla mientras los dioses intervienen en ambos bandos: Ares y Apolo apoyan a los troyanos, mientras Atenea, Hera y otras divinidades favorecen a los griegos.
 
@@ -171,7 +169,7 @@ Héctor sale al su encuentro. Luchan cuerpo a cuerpo, lanza contra lanza, hasta 
 
 Cuando Aquiles recibe la noticia de la muerte de Patroclo, reacciona con una mezcla de dolor y rabia. Tetis acude a consolarlo y pide a Hefesto que forje para él una nueva armadura. El dios crea armas dignas de un héroe, junto a un escudo cubierto de escenas del mundo de los hombres [no me gusta lo de las escenas del mundo de los hombres].
 
-Aquiles se [pone] la nueva armadura y sale directamente a buscar a Héctor.
+Aquiles se pone la nueva armadura y sale directamente a buscar a Héctor.
 
 Subido a su carruaje tirado por dos caballos [dos caballos, no, los caballos Balio y Janto que recibió de Poseidón], se planta sólo frente a las murallas de Troya, y grita una y otra vez el nombre de Héctor, exigiendo que salga. Dentro de la ciudad, Héctor se prepara para la batalla. Sabe que no puede evitar ese enfrentamiento. Se despide de su mujer y su hijo, consciente de lo que está en juego.
 
@@ -189,8 +187,6 @@ Días después, Príamo, rey de Troya y padre de Héctor, acude en secreto al ca
 Aquiles acepta.
 
 Durante varios días, la guerra se detiene para permitir los funerales de Héctor.
-
-1.
 
 La guerra no ha terminado. Los griegos siguen sin conquistar la ciudad.
 
