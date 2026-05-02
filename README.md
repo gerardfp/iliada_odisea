@@ -134,7 +134,7 @@ En respuesta, envía una plaga sobre el campamento griego: los hombres comienzan
 1.
 ![La disputa por Briseida](/images/page_10_briseida.png)
 
-Agamenón se ve obligado a devolver a Criseida para apaciguar la plaga que azota al campamento griego; a cambio exige otra recompensa: Briseida, la esclava de Aquiles.
+Agamenón se ve obligado a devolver a Criseida para apaciguar la plaga de peste que azota al campamento griego; a cambio exige otra recompensa: Briseida, la esclava de Aquiles.
 
 Aquiles se niega a aceptarlo, pero Agamenón, sin atender a razones, la toma por la fuerza y se la arrebata delante de todos.
 
@@ -158,6 +158,8 @@ La tregua se rompe de inmediato. El ejército griego reacciona y la guerra se re
 1.
 ![Patroclo con la Armadura de Aquiles](/images/page_12.png)
 
+A medida que la batalla se vuelve en contra de los griegos, gracias a la influencia de Zeus, Néstor declara que los troyanos están ganando porque Agamenón ha enfurecido a Aquiles, y urge al rey a apaciguar al guerrero. Agamenón acepta y envía a Odiseo y a otros dos jefes, Áyax y Fénix. Prometen que, si Aquiles regresa a la batalla, Agamenón devolverá a la cautiva Briseida y otros regalos. Aquiles rechaza todas las ofertas de Agamenón y simplemente urge a los griegos a navegar de regreso a casa como él planea hacer.
+
 Un día, viendo que los griegos están perdiendo terreno, Patroclo decide actuar. Siente que no puede quedarse al margen mientras sus compañeros retroceden. Por eso toma la armadura de Aquiles y entra en combate.
 
 Su presencia cambia el ritmo de la batalla. Los troyanos lo confunden con Aquiles y retroceden. Patroclo combate con fuerza, pero se adentra demasiado en el campo de batalla, alejándose del apoyo de los suyos.
@@ -167,11 +169,13 @@ Héctor sale al su encuentro. Luchan cuerpo a cuerpo, lanza contra lanza, hasta 
 1.
 ![Muerte de Héctor](/images/page_13.png)
 
-Cuando Aquiles recibe la noticia de la muerte de Patroclo, reacciona con una mezcla de dolor y rabia. Tetis acude a consolarlo y pide a Hefesto que forje para él una nueva armadura. El dios crea armas dignas de un héroe, junto a un escudo cubierto de escenas del mundo de los hombres [no me gusta lo de las escenas del mundo de los hombres].
+Cuando Aquiles recibe la noticia de la muerte de Patroclo, reacciona con una mezcla de dolor y rabia. Patroclo fue es su amigo desde la infancia. Tetis acude a consolarlo y pide a Hefesto que forje para él una nueva armadura. El dios crea armas dignas de un héroe, junto a un escudo cubierto de escenas del mundo de los hombres [no me gusta lo de las escenas del mundo de los hombres].
 
 Aquiles se pone la nueva armadura y sale directamente a buscar a Héctor.
 
-Subido a su carruaje tirado por dos caballos [dos caballos, no, los caballos Balio y Janto que recibió de Poseidón], se planta sólo frente a las murallas de Troya, y grita una y otra vez el nombre de Héctor, exigiendo que salga. Dentro de la ciudad, Héctor se prepara para la batalla. Sabe que no puede evitar ese enfrentamiento. Se despide de su mujer y su hijo, consciente de lo que está en juego.
+Subido a su carruaje tirado por dos caballos [dos caballos, no, los caballos Balio y Janto que recibió de Poseidón], persigue a Héctor alrededor de la muralla de Troya tres veces antes de que Atenea, en forma del hermano favorito y más querido de Héctor, Deífobo, persuada a Héctor de detenerse y luchar contra Aquiles cara a cara. Después de que Héctor se  da cuenta del engaño, sabe que la batalla es inevitable.
+
+e planta sólo frente a las murallas de Troya, y grita una y otra vez el nombre de Héctor, exigiendo que salga. Dentro de la ciudad, Héctor se prepara para la batalla. Sabe que no puede evitar ese enfrentamiento. Se despide de su mujer y su hijo, consciente de lo que está en juego.
 
 Las puertas de Troya se abren, y Héctor sale para luchar con Aquiles. Luchan con intensidad, intercambiando golpes y esquivando ataques. Cada ataque obliga a Héctor a defenderse, a perder terreno poco a poco. Aquiles ve un hueco en la defensa. Lanza su arma con toda su fuerza y atraviesa la armadura de Héctor y lo derriba frente a las murallas que ha defendido durante toda la guerra.
 
