@@ -10,9 +10,9 @@
 
 En lo alto del Olimpo, por encima de las nubes, los dioses viven en palacios donde nada envejece ni se desgasta. La luz es constante, el aire es puro y el tiempo no pesa como en el mundo de los mortales. Allí, las celebraciones pueden prolongarse sin medida.
 
-Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis es una nereida, una divinidad del mar, y su belleza no ha pasado desapercibida. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo, pero ambos renunciaron a ella tras conocer una profecía revelada por el titán Prometeo: el hijo de Tetis sería más poderoso que su padre.
+Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis, una nereida nacida del mar, irradia una belleza que incluso los dioses temieron desear. Zeus, rey de los dioses y señor del cielo, y Poseidón, dios del mar, la desearon en otro tiempo, pero ambos renunciaron a ella tras conocer una profecía revelada por el titán Prometeo: el hijo de Tetis sería más poderoso que su padre.
 
-Zeus no puede ignorar ese aviso. Él mismo alcanzó el poder tras derrotar a su padre, y no permitirá que la historia se repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Para evitarlo, deciden que Tetis se case con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.
+Zeus, quien él mismo alcanzó el poder tras derrotar a su propio padre, no permitirá que la historia se repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Por ello, deciden que Tetis se case con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.
 
 Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y observan el mundo de los humanos desde la distancia.
 
@@ -21,13 +21,13 @@ Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y ob
 
 Pero no todos los dioses han sido invitados al banquete.
 
-Eris, la diosa de la discordia, permanece al margen. No ha sido olvidada por descuido: su presencia siempre trae conflicto. Allí donde aparece, surgen disputas, tensiones y enfrentamientos. Sabe perfectamente por qué ha sido excluida, y no está dispuesta a aceptarlo.
+Eris, la diosa de la discordia, arde en silencio lejos del banquete. No ha sido olvidada: ha sido apartada. Y sabe perfectamente por qué. Allí donde aparece, surgen disputas, tensiones y enfrentamientos.
 
-Movida por el resentimiento, decide intervenir. Sin anunciarse ni reclamar atención, se acerca al banquete y deja sobre la mesa una manzana de oro antes de retirarse en silencio. Nadie la ve llegar, pero todos notan su presencia cuando descubren la inscripción grabada en la fruta: “Para la más bella”.
+Movida por el rencor, se desliza entre los dioses como una sombra, deja caer sobre la mesa una manzana de oro, y desaparece, dejando tras de sí una grieta invisible que pronto se abrirá. Nadie ha notado su presencia, pero todos saben que es obra suya cuando descubren la inscripción grabada en la fruta: “Para la más bella”.
 
-Tres diosas reclaman la manzana de inmediato. Hera, reina del Olimpo, considera que su posición la hace merecedora del premio. Atenea, diosa de la sabiduría y la estrategia, cree que su inteligencia la sitúa por encima de las demás. Afrodita, diosa del amor y la belleza, no duda: sabe que su poder es irresistible.
+Tres diosas reclaman la manzana de inmediato. Hera, reina del Olimpo, alza la mirada y considera que su poder la hace merecedora del premio. Atenea, diosa de la sabiduría y la estrategia, cree que su inteligencia la sitúa por encima de las demás. Afrodita, diosa del amor y la belleza, sonríe, segura de su poder irresistible.
 
-La disputa crece, y pronto queda claro que ninguna está dispuesta a ceder.
+La disputa crece, y las miradas se desafían. Pronto queda claro que ninguna está dispuesta a ceder. Y así, en medio de un festín eterno, nace una disputa capaz de arrastrar a dioses y hombres hacia la guerra.
 
 1.
 ![El Juicio de Paris](/images/page_3.png)
@@ -36,11 +36,12 @@ Para evitar que el conflicto se extienda entre los dioses, Zeus decide que la el
 
 El elegido es Paris, príncipe de Troya. Las tres diosas se presentan ante él:
 
-Hera le ofrece el poder absoluto sobre todos los hombres. Atenea le promete sabiduría y victoria en la guerra. Afrodita le promete el amor de la mujer más hermosa del mundo, Helena.
+Hera le ofrece el poder absoluto sobre todos los hombres. Atenea le promete sabiduría y victoria en la guerra.  Afrodita susurra una promesa más peligrosa: el amor de Helena, la más hermosa entre los mortales.
 
-Paris duda, consciente de que cualquier elección cambiará su destino. Finalmente se inclina por Afrodita, porque el deseo de Helena pesa más que cualquier otra promesa de poder o gloria.
+Paris duda, consciente de que cualquier elección cambiará su destino. Pero el deseo de Helena pesa más que cualquier otra promesa de poder o gloria, y finalmente entrega la manzana a Afrodita.
 
 Esta decisión, no solo cambiará el destino de Paris sino el de toda Grecia.
+
 
 1.
 ![Huida de Esparta](/images/page_4.png)
