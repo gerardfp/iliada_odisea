@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>La Ilíada y la Odisea</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');
+
+        body {
+            font-family: 'Merriweather', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+            counter-reset: page-number;
+        }
+
+        @page {
+            size: A4 portrait;
+            margin: 0;
+        }
+
+        .chapter {
+            page-break-after: always;
+            page-break-inside: avoid;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            box-sizing: border-box;
+            height: 100vh;
+            /* Exactamente una página */
+            overflow: hidden;
+        }
+
+        .chapter:last-child {
+            page-break-after: auto;
+        }
+
+        img {
+            width: 100%;
+            flex-grow: 1;
+            /* Ocupa todo el resto de la página */
+            min-height: 0;
+            /* Permite a la imagen encoger si hay mucho texto */
+            object-fit: cover;
+            /* Se pega a los bordes de la página sin deformarse */
+            object-position: center top;
+            margin: 0;
+        }
+
+        .text-content {
+            width: 100%;
+            padding: 8mm 15mm 15mm 15mm;
+            /* Márgenes muy reducidos */
+            box-sizing: border-box;
+            flex-shrink: 0;
+            text-align: justify;
+            font-size: 12pt;
+            /* Letra un punto más pequeña para ahorrar líneas */
+            line-height: 1.5;
+            /* Interlineado más compacto */
+        }
+
+        p {
+            margin-bottom: 10px;
+            text-indent: 1.5em;
+        }
+
+        p:first-child {
+            text-indent: 0;
+        }
+
+        /* Estilos para la portada */
+        .cover {
+            position: relative;
+            justify-content: center !important;
+        }
+
+        .cover img {
+            height: 100%;
+            object-position: center center;
+        }
+
+        .cover-title {
+            position: absolute;
+            top: 15%;
+            left: 0;
+            width: 100%;
+            text-align: center;
+            color: rgb(0, 0, 0);
+            /* text-shadow: 0 4px 15px rgba(0,0,0,0.9); */
+            background: rgba(0, 0, 0, 0.7);
+            padding: 40px 0;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .cover-title h1 {
+            font-size: 42pt;
+            margin: 0;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .cover-title h2 {
+            font-size: 16pt;
+            margin: 15px 0 0 0;
+            font-weight: 300;
+            letter-spacing: 4px;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="chapter cover">
+        <img src="images/cover.png" alt="Portada: La Ilíada">
+        <div class="cover-title">
+            <h1>LA ILÍADA</h1>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_1.png" alt="Banquete en el Olimpo">
+        <div class="text-content">
+            <p>En lo alto del Olimpo, por encima de las nubes, los dioses viven en palacios donde nada envejece ni se
+                desgasta. La luz es constante, el aire es puro y el tiempo no pesa como en el mundo de los mortales.
+                Allí, las celebraciones pueden prolongarse sin medida.</p>
+            <p>Ese día se celebra un gran banquete: la boda de Peleo y Tetis. Tetis, una nereida nacida del mar, irradia
+                una belleza que incluso los dioses temieron desear. Zeus, rey de los dioses y señor del cielo, y
+                Poseidón, dios del mar, la desearon en otro tiempo, pero ambos renunciaron a ella tras conocer una
+                profecía revelada por el titán Prometeo: el hijo de Tetis sería más poderoso que su padre.</p>
+            <p>Zeus, quien él mismo alcanzó el poder tras derrotar a su propio padre, no permitirá que la historia se
+                repita. Poseidón tampoco quiere engendrar a quien pueda superarlo. Por ello, deciden que Tetis se case
+                con un mortal. Así, su hijo será extraordinario, pero no una amenaza para los dioses.</p>
+            <p>Las mesas están llenas de ambrosía y néctar. Los dioses conversan, ríen y observan el mundo de los
+                humanos desde la distancia.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_2.png" alt="Eris y la Manzana de la Discordia">
+        <div class="text-content">
+            <p>Pero no todos los dioses han sido invitados al banquete.</p>
+            <p>Eris, la diosa de la discordia, arde en silencio lejos del banquete. No ha sido olvidada: ha sido
+                apartada. Y sabe perfectamente por qué. Allí donde aparece, surgen disputas, tensiones y
+                enfrentamientos.</p>
+            <p>Movida por el rencor, se desliza entre los dioses como una sombra, deja caer sobre la mesa una manzana de
+                oro, y desaparece, dejando tras de sí una grieta invisible que pronto se abrirá. Nadie ha notado su
+                presencia, pero todos saben que es obra suya cuando descubren la inscripción grabada en la fruta: “Para
+                la más bella”.</p>
+            <p>Tres diosas reclaman la manzana de inmediato. Hera, reina del Olimpo, alza la mirada y considera que su
+                poder la hace merecedora del premio. Atenea, diosa de la sabiduría y la estrategia, cree que su
+                inteligencia la sitúa por encima de las demás. Afrodita, diosa del amor y la belleza, sonríe, segura de
+                su poder irresistible.</p>
+            <p>La disputa crece, y las miradas se desafían. Pronto queda claro que ninguna está dispuesta a ceder. Y
+                así, en medio de un festín eterno, nace una disputa capaz de arrastrar a dioses y hombres hacia la
+                guerra.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_3.png" alt="El Juicio de Paris">
+        <div class="text-content">
+            <p>Para evitar que el conflicto se extienda entre los dioses, Zeus decide que la elección recaiga en un
+                mortal.</p>
+            <p>El elegido es Paris, príncipe de Troya. Las tres diosas se presentan ante él:</p>
+            <p>Hera le ofrece el poder absoluto sobre todos los hombres. Atenea le promete sabiduría y victoria en la
+                guerra. Afrodita le susurra una promesa más peligrosa: el amor de Helena, la más hermosa entre los
+                mortales.</p>
+            <p>Paris duda, consciente de que cualquier elección cambiará su destino. Pero el deseo de Helena pesa más
+                que cualquier otra promesa de poder o gloria, y finalmente entrega la manzana a Afrodita.</p>
+            <p>Esta decisión no solo cambiará el destino de Paris, sino el de toda Grecia.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_4.png" alt="Huida de Esparta">
+        <div class="text-content">
+            <p>Paris viaja a Esparta, donde Helena vive junto a su esposo, Menelao. Es recibido con hospitalidad. Come
+                en su mesa y duerme bajo su techo. Pero sus ojos solo se fijan en Helena. Entre ambos nace un amor
+                secreto.</p>
+            <p>Una noche, mientras el palacio duerme, toman su decisión. Atravesan los pasillos en silencio, como
+                sombras, hasta llegar a la orilla. Allí embarcan y se alejan de la costa a toda velocidad. Esparta
+                desaparece en la oscuridad y no miran atrás. Ni siquiera la furia de Hera, desatada en forma de
+                tempestad, logra detenerlos.</p>
+            <p>Cuando Menelao descubre la huida, la indignación lo desborda. No solo le han arrebatado a su esposa… le
+                han traicionado como rey. Reúne a los demás reyes griegos y les pide apoyo para recuperar a Helena. Uno
+                a uno, los reyes responden a su llamada.</p>
+            <p>Así comienza la guerra.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_5.png" alt="Reunión de los Héroes Griegos">
+        <div class="text-content">
+            <p>Agamenón, rey de Micenas y hermano de Menelao, toma el mando. Llega con el mayor ejército: decenas de
+                naves, filas de hombres con armaduras de bronce, escudos grandes como puertas y lanzas listas para
+                romper formaciones.</p>
+            <p>Desde Ítaca llega Ulises. No es el más fuerte, pero su astucia lo convierte en el más peligroso. Sus
+                guerreros son disciplinados, rápidos y precisos.</p>
+            <p>También acude Áyax. Enorme e imparable, su escudo cubre casi todo su cuerpo y su presencia mantiene la
+                línea firme incluso bajo los ataques más duros.</p>
+            <p>Néstor, el más veterano, aporta experiencia y prudencia.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_5_aquiles.png" alt="Aquiles">
+        <div class="text-content">
+            <p>Aquiles también acude a la llamada. Es el mejor guerrero de todos.</p>
+            <p>Hijo de Tetis, su destino estuvo marcado desde el principio. Sus hermanos murieron en la infancia, y su
+                madre volcó todos sus esfuerzos en la supervivencia de su hijo. Lo sumergió en el río Estigia, haciendo
+                su cuerpo invulnerable a las armas. También le entregó las alas de Arke, que le otorgan una velocidad
+                sobrenatural, y los caballos inmortales Janto y Balio, capaces de atravesar el campo de batalla como el
+                viento.</p>
+            <p>Fue educado por el centauro Quirón, quien le enseñó el arte de la guerra con precisión absoluta.</p>
+            <p>Llega en naves rápidas al frente de los mirmidones. Son pocos, pero letales.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_6.png" alt="La Flota de las Mil Naves">
+        <div class="text-content">
+            <p>Barco tras barco, los ejércitos se reúnen. A la llamada de Agamenón, los reyes y caudillos de todas las
+                regiones de Grecia responden. Una flota de 1.186 naves, con decenas de miles de hombres, se prepara para
+                arrasar una ciudad.</p>
+            <p>Empujados por el viento que tensa las velas y los remos que golpean el agua al ritmo de los tambores, los
+                barcos avanzan hacia Troya.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_7.png" alt="Desembarco en Troya">
+        <div class="text-content">
+            <p>Tras días de viaje, la flota griega alcanza las costas de Troya.</p>
+            <p>Ulises y Menelao son enviados ante la asamblea troyana para exigir la devolución de Helena. Los troyanos
+                se niegan.</p>
+            <p>La guerra es inevitable.</p>
+            <p>Los guerreros griegos avanzan en formación, protegidos por el bronce y preparados para el combate.</p>
+            <p>Las puertas de Troya se abren y su ejército sale al encuentro. Al frente está Héctor, firme, sin dudar.
+                Sus hombres avanzan desde terreno elevado, amparados por las murallas y con la formación bien cerrada.
+            </p>
+            <p>Durante unos instantes, ambos ejércitos se observan en silencio. Dos líneas de hombres armados, frente a
+                frente, inmóviles, midiendo la distancia. Nadie retrocede.</p>
+            <p>Entonces suena el primer grito.</p>
+            <p>Y la batalla comienza.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_8.png" alt="El Primer Choque de Ejércitos">
+        <div class="text-content">
+            <p>Las filas chocan con violencia. Escudos y lanzas se entrecruzan en un impacto brutal. El sonido del
+                bronce al golpear llena el aire. Los primeros hombres caen, y detrás de ellos otros ocupan su lugar sin
+                detenerse.</p>
+            <p>Los griegos intentan avanzar desde la playa, pero el terreno es estrecho y los troyanos presionan con
+                fuerza. Héctor se mueve entre los suyos, atacando donde la línea griega empieza a ceder. Su presencia
+                empuja a sus hombres hacia delante.</p>
+            <p>Áyax se planta en el centro y contiene el avance. Su escudo resiste golpe tras golpe, y donde él se
+                mantiene, la línea no se rompe. Una flecha le atraviesa la pierna, pero ni siquiera eso lo detiene.
+                Sigue avanzando, apoyándose en su escudo, como si el dolor no tuviera fuerza suficiente para frenarlo. A
+                su lado, los griegos recuperan terreno paso a paso.</p>
+            <p>Ulises no busca el choque directo. Se desplaza por los flancos, observando, esperando el momento justo
+                para atacar donde el enemigo está menos preparado.</p>
+            <p>La batalla se alarga durante horas. El polvo se levanta, la visibilidad se pierde, y el campo se llena de
+                cuerpos y armas rotas.</p>
+            <p>Cuando cae la noche, ninguno de los dos bandos ha vencido. Pero ambos han entendido lo mismo: la guerra
+                no será corta.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_10.png" alt="La plaga de Apolo">
+        <div class="text-content">
+            <p>Durante nueve años, los griegos mantienen el asedio sobre Troya, arrasando las ciudades cercanas y
+                saqueando toda la región en busca de riquezas y esclavos.</p>
+            <p>En una de estas incursiones, Aquiles toma como esclava a Briseida, mientras que Agamenón se queda con
+                Criseida, hija de Crises, sacerdote del dios Apolo.</p>
+            <p>Desesperado, Crises acude al campamento griego y suplica la devolución de su hija, ofreciendo riquezas a
+                cambio, pero Agamenón lo rechaza con dureza y lo obliga a marcharse sin haber conseguido nada.</p>
+            <p>Humillado, el sacerdote alza su plegaria a Apolo.</p>
+            <p>El dios escucha.</p>
+            <p>En respuesta, envía una plaga sobre el campamento griego: los hombres comienzan a enfermar, los animales
+                mueren y el ejército, poco a poco, empieza a debilitarse sin poder hacer nada para detenerlo, pues la
+                enfermedad no cesará hasta que Criseida sea devuelta a su padre.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_10_briseida.png" alt="La disputa por Briseida">
+        <div class="text-content">
+            <p>Agamenón se ve obligado a devolver a Criseida para apaciguar la plaga de peste que azota al campamento
+                griego. A cambio exige otra recompensa: Briseida, la esclava de Aquiles.</p>
+            <p>Aquiles se niega a aceptarlo, pero Agamenón, sin atender a razones, la toma por la fuerza y se la
+                arrebata delante de todos.</p>
+            <p>Humillado y lleno de cólera, Aquiles decide retirarse del combate y abandonar la guerra, negándose a
+                volver a luchar mientras su honor no sea restaurado.</p>
+            <p>Entonces pide a su madre Tetis que interceda ante Zeus para inclinar la balanza del conflicto en favor de
+                los troyanos.</p>
+            <p>Zeus accede a la petición, y a partir de ese momento los troyanos comienzan a ganar terreno en la guerra.
+            </p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_11.png" alt="Duelo entre Paris y Menelao">
+        <div class="text-content">
+            <p>En medio del avance troyano, Paris contempla desde la distancia la magnitud de la guerra que él mismo ha
+                provocado. Aunque Troya está logrando resistir, las muertes se acumulan cada día en el campo de batalla.
+                Sabiendo que todo comenzó por Helena, decide poner fin proponiendo un duelo contra Menelao, en el que el
+                vencedor se quedará con Helena y la guerra podrá terminar sin más derramamiento de sangre.</p>
+            <p>Frente a las murallas de Troya, Héctor y Paris presentan la propuesta, y Menelao y Agamenón la aceptan
+                como una oportunidad para resolver definitivamente el conflicto.</p>
+            <p>Allí mismo, frente a todos, Paris y Menelao se enfrentan, espada contra espada, pero el combate pronto se
+                inclina a favor de Menelao, que domina la lucha y obliga a Paris a retroceder hasta el límite de sus
+                fuerzas. Cuando todo parece decidido, Afrodita interviene y envuelve a Paris en una niebla repentina,
+                apartándolo del campo de batalla sin que nadie pueda impedirlo.</p>
+            <p>La tregua se rompe de inmediato. El ejército griego reacciona y la guerra se reanuda con violencia,
+                extendiéndose de nuevo por todo el campo de batalla mientras los dioses intervienen en ambos bandos:
+                Ares y Apolo apoyan a los troyanos, mientras Atenea, Hera y otras divinidades favorecen a los griegos.
+            </p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_12.png" alt="Patroclo con la Armadura de Aquiles">
+        <div class="text-content">
+            <p>A medida que la batalla se vuelve en contra de los griegos, gracias a la influencia de Zeus, Néstor
+                declara que los troyanos están ganando porque Agamenón ha enfurecido a Aquiles, y urge al rey a que
+                apacigüe al guerrero. Agamenón acepta y envía a Ulises y a otros dos jefes, Áyax y Fénix. Prometen que,
+                si Aquiles regresa a la batalla, Agamenón devolverá a la cautiva Briseida y otros regalos. Aquiles
+                rechaza todas las ofertas de Agamenón e insta a los griegos a navegar de regreso a casa como él planea
+                hacer.</p>
+            <p>Un día, viendo que los griegos están perdiendo terreno, Patroclo decide actuar. Siente que no puede
+                quedarse al margen mientras sus compañeros retroceden. Por eso toma la armadura de Aquiles y entra en
+                combate.</p>
+            <p>Su presencia cambia el ritmo de la batalla. Los troyanos lo confunden con Aquiles y retroceden. Patroclo
+                combate con fuerza, pero se adentra demasiado en el campo de batalla, alejándose del apoyo de los suyos.
+            </p>
+            <p>Héctor sale a su encuentro. Luchan cuerpo a cuerpo hasta que Patroclo empieza a ceder. Está cansado,
+                herido y solo. Héctor aprovecha ese instante, lanza su golpe con precisión y lo derriba. Cuando Patroclo
+                cae, Héctor cree haber vencido a Aquiles.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_13.png" alt="Muerte de Héctor">
+        <div class="text-content">
+            <p>Cuando Aquiles recibe la noticia de la muerte de Patroclo, el dolor y la rabia lo invaden. Patroclo fue
+                amigo desde la infancia.</p>
+            <p>Tetis acude a consolarlo y pide a Hefesto que forje para él una nueva armadura. El dios de la forja y el
+                fuego crea armas dignas de un héroe, junto a un escudo en el que las fuerzas del universo cobran vida.
+            </p>
+            <p>Aquiles se pone la nueva armadura y sale directamente a buscar a Héctor.</p>
+            <p>Subido a su carruaje tirado por sus dos caballos inmortales, persigue a Héctor alrededor de la muralla de
+                Troya tres veces antes de que Atenea, en forma del hermano favorito y más querido de Héctor, Deífobo,
+                persuada a Héctor de detenerse y luchar contra Aquiles cara a cara. Cuando Héctor se da cuenta del
+                engaño, sabe que la batalla es inevitable.</p>
+            <p>Luchan con intensidad, intercambiando golpes y esquivando ataques. Cada ataque obliga a Héctor a
+                defenderse, a perder terreno poco a poco. Aquiles ve un hueco en la defensa. Lanza su arma con toda su
+                fuerza y atraviesa la armadura. El cuerpo de Héctor cae ante las murallas que protegió.</p>
+            <p>Y con él, cae el corazón de Troya.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_14.png" alt="La Caída de Héctor">
+        <div class="text-content">
+            <p>La muerte de Héctor no consigue apaciguar la sed de venganza de Aquiles.</p>
+            <p>Aún dominado por la rabia, ata el cuerpo sin vida de Héctor a su carruaje, lo despoja de su armadura y lo
+                arrastra frente a las murallas de Troya, humillándolo ante los ojos de su familia y de toda la ciudad.
+            </p>
+            <p>Días después, Príamo, rey de Troya y padre de Héctor, acude en secreto al campamento griego. Llega hasta
+                la tienda de Aquiles y le suplica que le devuelva el cuerpo de su hijo.</p>
+            <p>Aquiles acepta.</p>
+            <p>Durante varios días, la guerra se detiene para permitir los funerales de Héctor.</p>
+            <p>La guerra no ha terminado. Los griegos siguen sin conquistar la ciudad.</p>
+            <p>Sin Héctor, la defensa de Troya pierde fuerza, pero sigue resistiendo desde sus murallas obligando a los
+                griegos a luchar por cada avance. Aquiles sigue dominando el campo de batalla: allí donde aparece, el
+                enemigo retrocede, y su nombre basta para sembrar el miedo entre quienes todavía se atreven a
+                enfrentarse a él.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_15.png" alt="La Flecha de Apolo">
+        <div class="text-content">
+            <p>Sin embargo, los dioses no han dejado de intervenir.</p>
+            <p>El dios Apolo, que protege a Troya, observa la batalla desde el cielo. Aquiles avanza ganando terreno,
+                empujando a los troyanos a la retirada. En la distancia, Paris tensa su arco y fija su ojo en él. Apolo
+                guía la flecha hacia el único lugar donde Aquiles puede ser herido.</p>
+            <p>El disparo atraviesa el aire y se clava en el talón de Aquiles, su único punto débil. Poco a poco su
+                cuerpo deja de responder: intenta mantenerse en pie, seguir avanzando, pero acaba cediendo y cae sobre
+                el campo de batalla.</p>
+            <p>A su alrededor, el combate se intensifica. Los griegos se apresuran para proteger su cuerpo, mientras los
+                troyanos intentan aprovechar la caída del guerrero que durante años ha sido su mayor amenaza. En medio
+                del choque, Áyax y los suyos consiguen formar una línea firme y, resistiendo la presión, logran retirar
+                el cuerpo de Aquiles.</p>
+            <p>Así muere el mejor guerrero de los griegos, y aunque la guerra no termina en ese momento, su ausencia
+                cambia el curso de lo que está por venir.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_16.png" alt="El Caballo de Troya">
+        <div class="text-content">
+            <p>Ulises propone una estrategia diferente. Lo que no han podido conseguir por la fuerza lo conseguirán con
+                el ingenio. En lugar de abrir las murallas desde fuera, él plantea hacerlo desde dentro. Esa noche, el
+                plan de Ulises se pone en marcha...</p>
+            <p>Al amanecer, los troyanos descubren desde las murallas que el ejército griego ha desaparecido. El
+                campamento está vacío, sin fuego ni movimiento. Solo queda, inmóvil en la playa, un gran caballo de
+                madera.</p>
+            <p>Unos temen una trampa y otros lo ven como una ofrenda. La duda crece, pero el alivio de que el enemigo se
+                ha retirado gana peso sobre el miedo.</p>
+            <p>Finalmente, toman una decisión.</p>
+            <p>Abren las puertas de la ciudad.</p>
+            <p>Y el caballo entra en Troya.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_17.png" alt="Infiltración en Troya">
+        <div class="text-content">
+            <p>Durante la noche, cuando todo parece en calma, los soldados griegos salen en silencio de su escondite en
+                el interior del caballo. Avanzan sigilosamente hasta las puertas de la muralla y las abren desde dentro.
+                Entonces dan la señal al ejército griego, que había permanecido oculto fuera de la ciudad.</p>
+            <p>Los troyanos, atrapados en el plan de Ulises, abren las puertas para introducir el caballo en la ciudad,
+                y así, sin saberlo, abren también el camino al ejército griego hacia el interior de Troya.</p>
+        </div>
+    </section>
+    <section class="chapter">
+        <img src="images/page_18.png" alt="La Caída de Troya - Combate en el Palacio Real">
+        <div class="text-content">
+            <p>Los soldados griegos se lanzan sobre la ciudad dormida, arrasando y quemando todo a su paso. Las llamas y
+                los gritos se extienden por toda la ciudad. Arde Troya.</p>
+            <p>La ciudad, que resistió durante décadas, se derrumba ahora entre llamas, gritos y destrucción.</p>
+        </div>
+    </section>
+
+</body>
+
+</html>
